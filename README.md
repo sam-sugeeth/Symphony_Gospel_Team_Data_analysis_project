@@ -3,7 +3,7 @@
 
 # 🎵 Symphony Gospel Analytics Project
 
-This project uses **SQL** and **Power BI** to analyze sales, donations, and inventory trends for a fictional gospel music company operating across Telangana and Andhra Pradesh.
+This project uses **SQL** and **Power BI** to analyze sales, donations, and inventory trends for a gospel music company operating across Telangana and Andhra Pradesh.
 
 ## 🧰 Tools Used
 - SQL (MySQL)
