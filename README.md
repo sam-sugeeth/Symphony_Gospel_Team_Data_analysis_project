@@ -30,8 +30,7 @@ This project uses **SQL** and **Power BI** to analyze sales, donations, and inve
 - `/images`: Screenshots of visuals
 
 ## 📸 Sample Dashboard
-![Symphony Dashboard](images/Screenshot 2025-06-29 013745.png)
-
+![Symphony Dashboard](Dashboard_screenshot.png)
 
 
 
