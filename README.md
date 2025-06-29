@@ -55,6 +55,10 @@ Which channels work best for donation drives?
 ## 📸 Sample Dashboard
 ![Symphony Dashboard](Dashboard_screenshot.png)
 
+- [Create Tables](sql/create_tables.sql)
+- [Analysis Queries](sql/analysis_queries.sql)
+
+
 
 
 ## 📬 Contact
