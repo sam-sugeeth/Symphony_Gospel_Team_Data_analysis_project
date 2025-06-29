@@ -29,6 +29,29 @@ This project uses **SQL** and **Power BI** to analyze sales, donations, and inve
 - `/powerbi`: Dashboard file (`.pbix`)
 - `/images`: Screenshots of visuals
 
+📊 Data Analysis – Key Business Questions Answered
+1. 💰 Revenue & Donation Analysis
+Monthly trends in sales revenue
+
+Trends in donations received
+
+Combined total revenue by product category and channel
+
+2. 📍 Location-Based Performance
+Which locations generate the most sales and donations?
+
+How do units sold vary across Telangana & Andhra Pradesh?
+
+3. 🛍️ Product Category Insights
+Which product categories (e.g., Songbooks, Accessories, Studio Time) drive the most revenue?
+
+Are there seasonal peaks in product demand?
+
+4. 📦 Channel Optimization
+Analyze sales channels: In-store, Online, Church Events
+
+Which channels work best for donation drives?
+
 ## 📸 Sample Dashboard
 ![Symphony Dashboard](Dashboard_screenshot.png)
 
